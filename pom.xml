@@ -3,7 +3,7 @@
 	<properties>
 		<module.group>de.linnk.nx.swing</module.group>    <!--  Maven groupId -->
 		<module.name>nxSwing</module.name>             <!--  Maven artifactId -->
-		<module.version>0.0.1-SNAPSHOT</module.version> <!--  Maven artifact version -->
+		<module.version>0.0.1</module.version> <!--  Maven artifact version -->
 		<module.importedPackages>*
 		</module.importedPackages>
 		<module.exportedPackages>de.linnk.nx.swing

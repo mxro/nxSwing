@@ -2,13 +2,12 @@ Manifest-Version: 1.0
 Export-Package: de.linnk.nx.swing;uses:="javax.swing"
 Built-By: mx
 Build-Jdk: 1.6.0_20
-Bundle-Version: 0.0.1.SNAPSHOT
+Bundle-Version: 0.0.1
 Tool: Bnd-0.0.357
 Bundle-Name: nxSwing
-Bnd-LastModified: 1282879514445
+Bnd-LastModified: 1282880475285
 Created-By: Apache Maven Bundle Plugin
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: nxSwing
-Import-Package: de.linnk.nx.swing,
- javax.swing
+Import-Package: de.linnk.nx.swing,javax.swing
 
