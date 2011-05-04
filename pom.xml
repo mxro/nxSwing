@@ -62,6 +62,7 @@
 						<Export-Package>${module.exportedPackages}</Export-Package>
 						<Service-Component>${module.serviceDefinitions}
 						</Service-Component>
+						<Bundle-RequiredExecutionEnvironment>JavaSE-1.6</Bundle-RequiredExecutionEnvironment>
 						<!-- <Embed-Dependency>${module.embeddedDependencies}
 						</Embed-Dependency>
 						<Embed-Directory>target/dependency</Embed-Directory>-->

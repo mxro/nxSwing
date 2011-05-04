@@ -10,4 +10,5 @@ Created-By: Apache Maven Bundle Plugin
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: nxSwing
 Import-Package: de.linnk.nx.swing,javax.swing
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 
